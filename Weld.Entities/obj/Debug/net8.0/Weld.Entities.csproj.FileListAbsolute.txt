@@ -1,0 +1,17 @@
+D:\CarringtonIsland\Weld\Weld.Entities\bin\Debug\net8.0\Weld.Entities.deps.json
+D:\CarringtonIsland\Weld\Weld.Entities\bin\Debug\net8.0\Weld.Entities.dll
+D:\CarringtonIsland\Weld\Weld.Entities\bin\Debug\net8.0\Weld.Entities.pdb
+D:\CarringtonIsland\Weld\Weld.Entities\bin\Debug\net8.0\Weld.Physics.dll
+D:\CarringtonIsland\Weld\Weld.Entities\bin\Debug\net8.0\Weld.World.dll
+D:\CarringtonIsland\Weld\Weld.Entities\bin\Debug\net8.0\Weld.World.pdb
+D:\CarringtonIsland\Weld\Weld.Entities\bin\Debug\net8.0\Weld.Physics.pdb
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\Weld.Entities.csproj.AssemblyReference.cache
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\Weld.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\Weld.Entities.AssemblyInfoInputs.cache
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\Weld.Entities.AssemblyInfo.cs
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\Weld.Entities.csproj.CoreCompileInputs.cache
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\Weld.Ent.5BCED0D5.Up2Date
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\Weld.Entities.dll
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\refint\Weld.Entities.dll
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\Weld.Entities.pdb
+D:\CarringtonIsland\Weld\Weld.Entities\obj\Debug\net8.0\ref\Weld.Entities.dll

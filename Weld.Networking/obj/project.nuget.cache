@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eU3M4cig1yU=",
+  "success": true,
+  "projectFilePath": "D:\\CarringtonIsland\\Weld\\Weld.Networking\\Weld.Networking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Netherite\\.nuget\\packages\\riptidenetworking.riptide\\2.2.0\\riptidenetworking.riptide.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>Weld.Networking</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weld.World\Weld.World.csproj" />
+    <ProjectReference Include="..\Weld.Physics\Weld.Physics.csproj" />
+    <ProjectReference Include="..\Weld.Entities\Weld.Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RiptideNetworking.Riptide" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>

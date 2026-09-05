@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Weld.World — engine-agnostic GTA3-style world / asset-pipeline library.
+    Deliberately has NO dependency on Silk.NET (or any graphics API).
+    Math uses System.Numerics so it interoperates with Silk.NET, MonoGame, etc. for free.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <RootNamespace>Weld.World</RootNamespace>
+    <AssemblyName>Weld.World</AssemblyName>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);CS1591</NoWarn>
+  </PropertyGroup>
+
+</Project>

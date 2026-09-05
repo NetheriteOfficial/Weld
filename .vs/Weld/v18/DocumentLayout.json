@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CarringtonIsland\\Weld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\game\\appoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\game\\appoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0404C92-7524-4EA6-96FF-ACC2DEE2BB84}|Weld.Physics.Bepu\\Weld.Physics.Bepu.csproj|d:\\carringtonisland\\weld\\weld.physics.bepu\\bepuphysicsworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0404C92-7524-4EA6-96FF-ACC2DEE2BB84}|Weld.Physics.Bepu\\Weld.Physics.Bepu.csproj|solutionrelative:weld.physics.bepu\\bepuphysicsworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEEE63B-9053-4148-A0C6-B835C0A00826}|Weld.Entities\\Weld.Entities.csproj|d:\\carringtonisland\\weld\\weld.entities\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEEE63B-9053-4148-A0C6-B835C0A00826}|Weld.Entities\\Weld.Entities.csproj|solutionrelative:weld.entities\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\game\\localplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\game\\localplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\game\\gamebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\game\\gamebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\renderpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\renderpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\game\\clientapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\game\\clientapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\game\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\game\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D61F21-698C-4775-B75A-B89E35480754}|Weld.Networking\\Weld.Networking.csproj|d:\\carringtonisland\\weld\\weld.networking\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D61F21-698C-4775-B75A-B89E35480754}|Weld.Networking\\Weld.Networking.csproj|solutionrelative:weld.networking\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0404C92-7524-4EA6-96FF-ACC2DEE2BB84}|Weld.Physics.Bepu\\Weld.Physics.Bepu.csproj|d:\\carringtonisland\\weld\\weld.physics.bepu\\bepubody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0404C92-7524-4EA6-96FF-ACC2DEE2BB84}|Weld.Physics.Bepu\\Weld.Physics.Bepu.csproj|solutionrelative:weld.physics.bepu\\bepubody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\level.streaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\level.streaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\formats\\assimpfbxmodelformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\formats\\assimpfbxmodelformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\formats\\assimpcollisionformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\formats\\assimpcollisionformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEEE63B-9053-4148-A0C6-B835C0A00826}|Weld.Entities\\Weld.Entities.csproj|d:\\carringtonisland\\weld\\weld.entities\\networkedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEEE63B-9053-4148-A0C6-B835C0A00826}|Weld.Entities\\Weld.Entities.csproj|solutionrelative:weld.entities\\networkedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\formats\\pngtexturedictionaryformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\formats\\pngtexturedictionaryformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\assets\\assetformats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\assets\\assetformats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\worldlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\worldlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\streaming\\streamedassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\streaming\\streamedassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\leveloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\leveloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\assets\\assetarchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\assets\\assetarchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\streaming\\streamingcameradata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\streaming\\streamingcameradata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CarringtonIsland\\Weld\\.tools\\StripComments\\StripComments.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.tools\\StripComments\\StripComments.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\worldinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\worldinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\rendering\\gpuresourcecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\rendering\\gpuresourcecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\level.lod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\level.lod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\rendering\\shaderprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\rendering\\shaderprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\weld.carisle\\rendering\\shaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:weld.carisle\\rendering\\shaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\gamedata\\data\\maps\\carislemid\\carislemid.ide||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:gamedata\\data\\maps\\carislemid\\carislemid.ide||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|d:\\carringtonisland\\weld\\weld.world\\math\\frustum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070B79D2-869B-45EF-B760-E9CEA83ADC31}|Weld.World\\Weld.World.csproj|solutionrelative:weld.world\\math\\frustum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\gamedata\\data\\maps\\carislemid\\carislemid.ipl||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:gamedata\\data\\maps\\carislemid\\carislemid.ipl||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|d:\\carringtonisland\\weld\\gamedata\\models\\carringtonisland_img\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D73BF442-EB45-4129-9482-6799B13B3CD3}|Weld.Carisle\\Weld.Carisle.csproj|solutionrelative:gamedata\\models\\carringtonisland_img\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71000893-359B-4858-9372-05FF70611255}|Weld.World.Smoke\\Weld.World.Smoke.csproj|d:\\carringtonisland\\weld\\weld.world.smoke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71000893-359B-4858-9372-05FF70611255}|Weld.World.Smoke\\Weld.World.Smoke.csproj|solutionrelative:weld.world.smoke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerEntity.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Entities\\PlayerEntity.cs",
+              "RelativeDocumentMoniker": "Weld.Entities\\PlayerEntity.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Entities\\PlayerEntity.cs",
+              "RelativeToolTip": "Weld.Entities\\PlayerEntity.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:59:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppOptions.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\AppOptions.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Game\\AppOptions.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\AppOptions.cs",
+              "RelativeToolTip": "Weld.Carisle\\Game\\AppOptions.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:59:10.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientApp.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\ClientApp.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Game\\ClientApp.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\ClientApp.cs",
+              "RelativeToolTip": "Weld.Carisle\\Game\\ClientApp.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwIAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:56:33.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerCamera.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\PlayerCamera.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Game\\PlayerCamera.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\PlayerCamera.cs",
+              "RelativeToolTip": "Weld.Carisle\\Game\\PlayerCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:56:28.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalPlayerController.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\LocalPlayerController.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Game\\LocalPlayerController.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\LocalPlayerController.cs",
+              "RelativeToolTip": "Weld.Carisle\\Game\\LocalPlayerController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:56:24.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameBootstrap.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\GameBootstrap.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Game\\GameBootstrap.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Game\\GameBootstrap.cs",
+              "RelativeToolTip": "Weld.Carisle\\Game\\GameBootstrap.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:55:19.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BepuBody.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Physics.Bepu\\BepuBody.cs",
+              "RelativeDocumentMoniker": "Weld.Physics.Bepu\\BepuBody.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Physics.Bepu\\BepuBody.cs",
+              "RelativeToolTip": "Weld.Physics.Bepu\\BepuBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:55:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssimpCollisionFormat.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Formats\\AssimpCollisionFormat.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Formats\\AssimpCollisionFormat.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Formats\\AssimpCollisionFormat.cs",
+              "RelativeToolTip": "Weld.Carisle\\Formats\\AssimpCollisionFormat.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAApwFYAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:51:48.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NetworkedEntity.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Entities\\NetworkedEntity.cs",
+              "RelativeDocumentMoniker": "Weld.Entities\\NetworkedEntity.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Entities\\NetworkedEntity.cs",
+              "RelativeToolTip": "Weld.Entities\\NetworkedEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:50:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameServer.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Networking\\GameServer.cs",
+              "RelativeDocumentMoniker": "Weld.Networking\\GameServer.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Networking\\GameServer.cs",
+              "RelativeToolTip": "Weld.Networking\\GameServer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAI4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:49:50.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BepuPhysicsWorld.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Physics.Bepu\\BepuPhysicsWorld.cs",
+              "RelativeDocumentMoniker": "Weld.Physics.Bepu\\BepuPhysicsWorld.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Physics.Bepu\\BepuPhysicsWorld.cs",
+              "RelativeToolTip": "Weld.Physics.Bepu\\BepuPhysicsWorld.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:49:28.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssetArchive.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\Assets\\AssetArchive.cs",
+              "RelativeDocumentMoniker": "Weld.World\\Assets\\AssetArchive.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\Assets\\AssetArchive.cs",
+              "RelativeToolTip": "Weld.World\\Assets\\AssetArchive.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T15:30:37.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Level.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\Level.cs",
+              "RelativeDocumentMoniker": "Weld.World\\Level.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\Level.cs",
+              "RelativeToolTip": "Weld.World\\Level.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA6wEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T15:29:52.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StripComments.csproj",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\.tools\\StripComments\\StripComments.csproj",
+              "RelativeDocumentMoniker": ".tools\\StripComments\\StripComments.csproj",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\.tools\\StripComments\\StripComments.csproj",
+              "RelativeToolTip": ".tools\\StripComments\\StripComments.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-05T15:27:53.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssimpFbxModelFormat.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Formats\\AssimpFbxModelFormat.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Formats\\AssimpFbxModelFormat.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Formats\\AssimpFbxModelFormat.cs",
+              "RelativeToolTip": "Weld.Carisle\\Formats\\AssimpFbxModelFormat.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:00:43.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Program.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Program.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Program.cs",
+              "RelativeToolTip": "Weld.Carisle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T10:59:21.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WorldInstance.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\WorldInstance.cs",
+              "RelativeDocumentMoniker": "Weld.World\\WorldInstance.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\WorldInstance.cs",
+              "RelativeToolTip": "Weld.World\\WorldInstance.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwDoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:09:37.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LevelOptions.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\LevelOptions.cs",
+              "RelativeDocumentMoniker": "Weld.World\\LevelOptions.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\LevelOptions.cs",
+              "RelativeToolTip": "Weld.World\\LevelOptions.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:10:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StreamedAssets.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\Streaming\\StreamedAssets.cs",
+              "RelativeDocumentMoniker": "Weld.World\\Streaming\\StreamedAssets.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\Streaming\\StreamedAssets.cs",
+              "RelativeToolTip": "Weld.World\\Streaming\\StreamedAssets.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:19:26.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StreamingCameraData.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\Streaming\\StreamingCameraData.cs",
+              "RelativeDocumentMoniker": "Weld.World\\Streaming\\StreamingCameraData.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\Streaming\\StreamingCameraData.cs",
+              "RelativeToolTip": "Weld.World\\Streaming\\StreamingCameraData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:19:10.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorldLog.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\WorldLog.cs",
+              "RelativeDocumentMoniker": "Weld.World\\WorldLog.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\WorldLog.cs",
+              "RelativeToolTip": "Weld.World\\WorldLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:09:37.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssetFormats.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\Assets\\AssetFormats.cs",
+              "RelativeDocumentMoniker": "Weld.World\\Assets\\AssetFormats.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\Assets\\AssetFormats.cs",
+              "RelativeToolTip": "Weld.World\\Assets\\AssetFormats.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:13:48.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GpuResourceCache.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Rendering\\GpuResourceCache.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Rendering\\GpuResourceCache.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Rendering\\GpuResourceCache.cs",
+              "RelativeToolTip": "Weld.Carisle\\Rendering\\GpuResourceCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:17:20.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RenderPipeline.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\RenderPipeline.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\RenderPipeline.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\RenderPipeline.cs",
+              "RelativeToolTip": "Weld.Carisle\\RenderPipeline.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:09:52.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShaderProgram.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Rendering\\ShaderProgram.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Rendering\\ShaderProgram.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Rendering\\ShaderProgram.cs",
+              "RelativeToolTip": "Weld.Carisle\\Rendering\\ShaderProgram.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:16:49.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Level.Lod.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\Level.Lod.cs",
+              "RelativeDocumentMoniker": "Weld.World\\Level.Lod.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\Level.Lod.cs",
+              "RelativeToolTip": "Weld.World\\Level.Lod.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:09:27.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PngTextureDictionaryFormat.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Formats\\PngTextureDictionaryFormat.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Formats\\PngTextureDictionaryFormat.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Formats\\PngTextureDictionaryFormat.cs",
+              "RelativeToolTip": "Weld.Carisle\\Formats\\PngTextureDictionaryFormat.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAApwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:08:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Shaders.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Rendering\\Shaders.cs",
+              "RelativeDocumentMoniker": "Weld.Carisle\\Rendering\\Shaders.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.Carisle\\Rendering\\Shaders.cs",
+              "RelativeToolTip": "Weld.Carisle\\Rendering\\Shaders.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:16:49.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CARISLEmid.ide",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\GameData\\data\\maps\\CARISLEmid\\CARISLEmid.ide",
+              "RelativeDocumentMoniker": "GameData\\data\\maps\\CARISLEmid\\CARISLEmid.ide",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\GameData\\data\\maps\\CARISLEmid\\CARISLEmid.ide",
+              "RelativeToolTip": "GameData\\data\\maps\\CARISLEmid\\CARISLEmid.ide",
+              "ViewState": "AgIAAPkCAAAAAAAAAAAmwA8DAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-05T12:26:39.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CARISLEmid.ipl",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\GameData\\data\\maps\\CARISLEmid\\CARISLEmid.ipl",
+              "RelativeDocumentMoniker": "GameData\\data\\maps\\CARISLEmid\\CARISLEmid.ipl",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\GameData\\data\\maps\\CARISLEmid\\CARISLEmid.ipl",
+              "RelativeToolTip": "GameData\\data\\maps\\CARISLEmid\\CARISLEmid.ipl",
+              "ViewState": "AgIAAIwCAAAAAAAAAAAcwJUCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-05T12:16:48.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Frustum.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\Math\\Frustum.cs",
+              "RelativeDocumentMoniker": "Weld.World\\Math\\Frustum.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\Math\\Frustum.cs",
+              "RelativeToolTip": "Weld.World\\Math\\Frustum.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T13:29:42.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Level.Streaming.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World\\Level.Streaming.cs",
+              "RelativeDocumentMoniker": "Weld.World\\Level.Streaming.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World\\Level.Streaming.cs",
+              "RelativeToolTip": "Weld.World\\Level.Streaming.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADgvz0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:19:30.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "README.txt",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\GameData\\models\\carringtonisland_img\\README.txt",
+              "RelativeDocumentMoniker": "GameData\\models\\carringtonisland_img\\README.txt",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\GameData\\models\\carringtonisland_img\\README.txt",
+              "RelativeToolTip": "GameData\\models\\carringtonisland_img\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-05T10:59:23.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CarringtonIsland\\Weld\\Weld.World.Smoke\\Program.cs",
+              "RelativeDocumentMoniker": "Weld.World.Smoke\\Program.cs",
+              "ToolTip": "D:\\CarringtonIsland\\Weld\\Weld.World.Smoke\\Program.cs",
+              "RelativeToolTip": "Weld.World.Smoke\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T10:59:42.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

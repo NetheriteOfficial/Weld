@@ -1,0 +1,141 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StripComments/1.0.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.CSharp": "4.6.0"
+        },
+        "runtime": {
+          "StripComments.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.Common/4.6.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.CodeAnalysis.dll": {
+            "assemblyVersion": "4.6.0.0",
+            "fileVersion": "4.600.23.25908"
+          }
+        },
+        "resources": {
+          "lib/net6.0/cs/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net6.0/de/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0/es/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0/fr/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0/it/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net6.0/ja/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0/ko/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net6.0/pl/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net6.0/ru/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net6.0/tr/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.CSharp/4.6.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.Common": "4.6.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.CodeAnalysis.CSharp.dll": {
+            "assemblyVersion": "4.6.0.0",
+            "fileVersion": "4.600.23.25908"
+          }
+        },
+        "resources": {
+          "lib/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StripComments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.Common/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N3uLvekc7DjvE1BX8YW7UH7ldjA4ps/Tun2YmOoSIItJrh1gnQIMKUbK1c3uQUx2NHbLibVZI4o/VB9xb4B7tA==",
+      "path": "microsoft.codeanalysis.common/4.6.0",
+      "hashPath": "microsoft.codeanalysis.common.4.6.0.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.CSharp/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9pyFZUN2Lyu3C0Xfs49kezfH+CzQHMibGsQeQPu0P+GWyH2XXDwmyZ6jAaKQGNUXOJfC2OK01hWMJTJY315uDQ==",
+      "path": "microsoft.codeanalysis.csharp/4.6.0",
+      "hashPath": "microsoft.codeanalysis.csharp.4.6.0.nupkg.sha512"
+    }
+  }
+}

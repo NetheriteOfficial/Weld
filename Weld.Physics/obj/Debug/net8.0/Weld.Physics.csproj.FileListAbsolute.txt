@@ -1,0 +1,15 @@
+D:\CarringtonIsland\Weld\Weld.Physics\bin\Debug\net8.0\Weld.Physics.deps.json
+D:\CarringtonIsland\Weld\Weld.Physics\bin\Debug\net8.0\Weld.Physics.dll
+D:\CarringtonIsland\Weld\Weld.Physics\bin\Debug\net8.0\Weld.Physics.pdb
+D:\CarringtonIsland\Weld\Weld.Physics\bin\Debug\net8.0\Weld.World.dll
+D:\CarringtonIsland\Weld\Weld.Physics\bin\Debug\net8.0\Weld.World.pdb
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\Weld.Physics.csproj.AssemblyReference.cache
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\Weld.Physics.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\Weld.Physics.AssemblyInfoInputs.cache
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\Weld.Physics.AssemblyInfo.cs
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\Weld.Physics.csproj.CoreCompileInputs.cache
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\Weld.Phy.2A810A46.Up2Date
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\Weld.Physics.dll
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\refint\Weld.Physics.dll
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\Weld.Physics.pdb
+D:\CarringtonIsland\Weld\Weld.Physics\obj\Debug\net8.0\ref\Weld.Physics.dll

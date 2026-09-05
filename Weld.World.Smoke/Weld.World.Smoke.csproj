@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Headless smoke test: loads the Carrington Island data with stub formats and exercises streaming/culling. -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weld.World\Weld.World.csproj" />
+    <ProjectReference Include="..\Weld.Physics\Weld.Physics.csproj" />
+    <ProjectReference Include="..\Weld.Entities\Weld.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

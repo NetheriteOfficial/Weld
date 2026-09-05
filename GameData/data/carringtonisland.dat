@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level>
+    <ImgFiles>
+        <ImgFile>models/carringtonisland.img</ImgFile>
+        <ImgFile>models/collision.img</ImgFile>
+    </ImgFiles>
+    <ItemDefinitions>
+        <ItemDefinition>data/maps/CARISLEmid/CARISLEmid.ide</ItemDefinition>
+    </ItemDefinitions>
+    <CollisionFiles>
+        <CollisionFile>data/maps/CARISLEmid/CARISLEmid.col</CollisionFile>
+    </CollisionFiles>
+    <ItemPlacementLists>
+        <ItemPlacementList>data/maps/CARISLEmid/CARISLEmid.ipl</ItemPlacementList>
+    </ItemPlacementLists>
+</Level>

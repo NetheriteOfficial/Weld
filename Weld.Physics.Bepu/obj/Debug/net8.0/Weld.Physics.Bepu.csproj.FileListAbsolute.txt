@@ -1,0 +1,17 @@
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\Weld.Physics.Bepu.csproj.AssemblyReference.cache
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\Weld.Physics.Bepu.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\Weld.Physics.Bepu.AssemblyInfoInputs.cache
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\Weld.Physics.Bepu.AssemblyInfo.cs
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\Weld.Physics.Bepu.csproj.CoreCompileInputs.cache
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\bin\Debug\net8.0\Weld.Physics.Bepu.deps.json
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\bin\Debug\net8.0\Weld.Physics.Bepu.dll
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\bin\Debug\net8.0\Weld.Physics.Bepu.pdb
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\bin\Debug\net8.0\Weld.Physics.dll
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\bin\Debug\net8.0\Weld.World.dll
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\bin\Debug\net8.0\Weld.World.pdb
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\bin\Debug\net8.0\Weld.Physics.pdb
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\Weld.Phy.75F7F972.Up2Date
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\Weld.Physics.Bepu.dll
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\refint\Weld.Physics.Bepu.dll
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\Weld.Physics.Bepu.pdb
+D:\CarringtonIsland\Weld\Weld.Physics.Bepu\obj\Debug\net8.0\ref\Weld.Physics.Bepu.dll

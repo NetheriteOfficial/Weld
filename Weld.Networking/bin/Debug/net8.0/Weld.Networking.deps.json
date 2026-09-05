@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Weld.Networking/1.0.0": {
+        "dependencies": {
+          "RiptideNetworking.Riptide": "2.2.0",
+          "Weld.Entities": "1.0.0",
+          "Weld.Physics": "1.0.0",
+          "Weld.World": "1.0.0"
+        },
+        "runtime": {
+          "Weld.Networking.dll": {}
+        }
+      },
+      "RiptideNetworking.Riptide/2.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/RiptideNetworking.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "Weld.Entities/1.0.0": {
+        "dependencies": {
+          "Weld.Physics": "1.0.0",
+          "Weld.World": "1.0.0"
+        },
+        "runtime": {
+          "Weld.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Weld.Physics/1.0.0": {
+        "dependencies": {
+          "Weld.World": "1.0.0"
+        },
+        "runtime": {
+          "Weld.Physics.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Weld.World/1.0.0": {
+        "runtime": {
+          "Weld.World.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weld.Networking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RiptideNetworking.Riptide/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNEweYDBp76VpPSWmMhWm5/voGuu+CGUetdZMecUEiIoChl9EbvS5PAFoJAcaBCNtrP8XaDMsxd1VCuDfLQAsg==",
+      "path": "riptidenetworking.riptide/2.2.0",
+      "hashPath": "riptidenetworking.riptide.2.2.0.nupkg.sha512"
+    },
+    "Weld.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Weld.Physics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Weld.World/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

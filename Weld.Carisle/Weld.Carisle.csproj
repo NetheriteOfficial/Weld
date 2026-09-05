@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Weld.Carisle — the game EXE. This is where Silk.NET lives and where the concrete asset formats
+    (Assimp FBX models, PNG texture dictionaries) are defined and registered with Weld.World.
+  -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AssemblyName>Weld.Carisle</AssemblyName>
+    <RootNamespace>Weld.Carisle</RootNamespace>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weld.World\Weld.World.csproj" />
+    <ProjectReference Include="..\Weld.Physics\Weld.Physics.csproj" />
+    <ProjectReference Include="..\Weld.Physics.Bepu\Weld.Physics.Bepu.csproj" />
+    <ProjectReference Include="..\Weld.Entities\Weld.Entities.csproj" />
+    <ProjectReference Include="..\Weld.Networking\Weld.Networking.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Silk.NET.OpenGL" Version="2.21.0" />
+    <PackageReference Include="Silk.NET.Windowing" Version="2.21.0" />
+    <PackageReference Include="Silk.NET.Input" Version="2.21.0" />
+    <PackageReference Include="Silk.NET.Maths" Version="2.21.0" />
+    <!-- Temporary model format: Assimp (managed wrapper with bundled natives for win/linux/osx). -->
+    <PackageReference Include="AssimpNet" Version="5.0.0-beta1" />
+    <!-- Temporary TXD format: PNG via stb_image. -->
+    <PackageReference Include="StbImageSharp" Version="2.30.15" />
+  </ItemGroup>
+
+  <!-- Ship the GTA-style data tree next to the EXE: ./data, ./models -->
+  <ItemGroup>
+    <None Include="..\GameData\**\*" Link="%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

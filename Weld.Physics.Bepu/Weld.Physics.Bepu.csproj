@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RootNamespace>Weld.Physics.Bepu</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weld.World\Weld.World.csproj" />
+    <ProjectReference Include="..\Weld.Physics\Weld.Physics.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepuPhysics" Version="2.4.0" />
+  </ItemGroup>
+
+</Project>

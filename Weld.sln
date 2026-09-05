@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weld.World", "Weld.World\Weld.World.csproj", "{070B79D2-869B-45EF-B760-E9CEA83ADC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weld.Carisle", "Weld.Carisle\Weld.Carisle.csproj", "{D73BF442-EB45-4129-9482-6799B13B3CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weld.World.Smoke", "Weld.World.Smoke\Weld.World.Smoke.csproj", "{71000893-359B-4858-9372-05FF70611255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weld.Physics", "Weld.Physics\Weld.Physics.csproj", "{AB40B59B-CBAF-438E-9136-3DAEB7C56C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weld.Physics.Bepu", "Weld.Physics.Bepu\Weld.Physics.Bepu.csproj", "{D0404C92-7524-4EA6-96FF-ACC2DEE2BB84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weld.Entities", "Weld.Entities\Weld.Entities.csproj", "{4DEEE63B-9053-4148-A0C6-B835C0A00826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weld.Networking", "Weld.Networking\Weld.Networking.csproj", "{27D61F21-698C-4775-B75A-B89E35480754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070B79D2-869B-45EF-B760-E9CEA83ADC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070B79D2-869B-45EF-B760-E9CEA83ADC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070B79D2-869B-45EF-B760-E9CEA83ADC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070B79D2-869B-45EF-B760-E9CEA83ADC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73BF442-EB45-4129-9482-6799B13B3CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73BF442-EB45-4129-9482-6799B13B3CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73BF442-EB45-4129-9482-6799B13B3CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73BF442-EB45-4129-9482-6799B13B3CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71000893-359B-4858-9372-05FF70611255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71000893-359B-4858-9372-05FF70611255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71000893-359B-4858-9372-05FF70611255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71000893-359B-4858-9372-05FF70611255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB40B59B-CBAF-438E-9136-3DAEB7C56C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB40B59B-CBAF-438E-9136-3DAEB7C56C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB40B59B-CBAF-438E-9136-3DAEB7C56C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB40B59B-CBAF-438E-9136-3DAEB7C56C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0404C92-7524-4EA6-96FF-ACC2DEE2BB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0404C92-7524-4EA6-96FF-ACC2DEE2BB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0404C92-7524-4EA6-96FF-ACC2DEE2BB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0404C92-7524-4EA6-96FF-ACC2DEE2BB84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEEE63B-9053-4148-A0C6-B835C0A00826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEEE63B-9053-4148-A0C6-B835C0A00826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEEE63B-9053-4148-A0C6-B835C0A00826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEEE63B-9053-4148-A0C6-B835C0A00826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D61F21-698C-4775-B75A-B89E35480754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D61F21-698C-4775-B75A-B89E35480754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D61F21-698C-4775-B75A-B89E35480754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D61F21-698C-4775-B75A-B89E35480754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

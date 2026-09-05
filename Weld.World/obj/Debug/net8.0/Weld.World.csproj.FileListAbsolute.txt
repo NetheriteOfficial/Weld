@@ -1,0 +1,11 @@
+D:\CarringtonIsland\Weld\Weld.World\bin\Debug\net8.0\Weld.World.deps.json
+D:\CarringtonIsland\Weld\Weld.World\bin\Debug\net8.0\Weld.World.dll
+D:\CarringtonIsland\Weld\Weld.World\bin\Debug\net8.0\Weld.World.pdb
+D:\CarringtonIsland\Weld\Weld.World\obj\Debug\net8.0\Weld.World.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarringtonIsland\Weld\Weld.World\obj\Debug\net8.0\Weld.World.AssemblyInfoInputs.cache
+D:\CarringtonIsland\Weld\Weld.World\obj\Debug\net8.0\Weld.World.AssemblyInfo.cs
+D:\CarringtonIsland\Weld\Weld.World\obj\Debug\net8.0\Weld.World.csproj.CoreCompileInputs.cache
+D:\CarringtonIsland\Weld\Weld.World\obj\Debug\net8.0\Weld.World.dll
+D:\CarringtonIsland\Weld\Weld.World\obj\Debug\net8.0\refint\Weld.World.dll
+D:\CarringtonIsland\Weld\Weld.World\obj\Debug\net8.0\Weld.World.pdb
+D:\CarringtonIsland\Weld\Weld.World\obj\Debug\net8.0\ref\Weld.World.dll

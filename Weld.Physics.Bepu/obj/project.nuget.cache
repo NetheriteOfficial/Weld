@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ONJllelUJcg=",
+  "success": true,
+  "projectFilePath": "D:\\CarringtonIsland\\Weld\\Weld.Physics.Bepu\\Weld.Physics.Bepu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Netherite\\.nuget\\packages\\bepuphysics\\2.4.0\\bepuphysics.2.4.0.nupkg.sha512",
+    "C:\\Users\\Netherite\\.nuget\\packages\\bepuutilities\\2.4.0\\bepuutilities.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
